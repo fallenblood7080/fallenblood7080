@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fallenblood7080&label=Profile%20views&color=0e75b6&style=flat" alt="fallenblood7080" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fallenblood7080" alt="fallenblood7080" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/fallenblood7080" target="blank"><img src="https://img.shields.io/twitter/follow/fallenblood7080?logo=twitter&style=for-the-badge" alt="fallenblood7080" /></a> </p>
 
 - 🌱 I’m currently learning **Unity DOTS, some networking and React..**
@@ -28,6 +26,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/fallenblood"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fallenblood" /></a></p><br>
 <br></br>
-<p><img src="https://github-readme-stats.vercel.app/api?username=fallenblood7080&show_icons=true&locale=en" alt="fallenblood7080" /></p>
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fallenblood7080&" alt="fallenblood7080" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fallenblood7080&theme=dracula" alt="fallenblood7080" /></a> </p>
+<div align="center">
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fallenblood7080&theme=dracula" alt="fallenblood7080" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=fallenblood7080&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fallenblood7080&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
