@@ -27,7 +27,7 @@
 <p><a href="https://ko-fi.com/fallenblood"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="fallenblood" /></a></p><br>
 <br></br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fallenblood7080&theme=dracula" alt="fallenblood7080" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fallenblood7080&theme=gitdimmed" alt="fallenblood7080" /></a> </p>
 <div align="center">
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fallenblood7080&theme=dracula" alt="fallenblood7080" /></p>
   <img src="https://github-readme-stats.vercel.app/api?username=fallenblood7080&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
