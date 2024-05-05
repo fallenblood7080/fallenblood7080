@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Unity, C# anything about game dev**
 
-- ⚡ Fun fact **I just love to learn new stuffs...**
+- ⚡ Fun fact **I just love to learn new stuff...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
