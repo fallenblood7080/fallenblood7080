@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/fallenblood7080" target="blank"><img src="https://img.shields.io/twitter/follow/fallenblood7080?logo=twitter&style=for-the-badge" alt="fallenblood7080" /></a> </p>
 
-- 🌱 I’m currently learning **Unity DOTS, some networking and React..**
+- 🌱 I’m currently learning **Unity DOTS, some networking and Graphics and Shader and many more..**
 
 - 👨‍💻 Portfolio [https://fallenblood7080.github.io/portfolio/](https://fallenblood7080.github.io/portfolio/)
 
